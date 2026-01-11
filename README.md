@@ -25,7 +25,7 @@ This system replaces manual, paper-based processes with a secure and organized d
 
 ---
 
-## 👨‍💻 Project Contributors
+## 👨‍💻 Authors
 
 This project was developed by:
 
