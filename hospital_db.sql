@@ -138,7 +138,7 @@ INSERT INTO `doctor` (`DoctorID`, `FirstName`, `LastName`, `Street`, `City`, `St
 (2, 'Dr.', 'Ashraf', '1', 'Chittagong', 'Bangladesh', '1230', 1),
 (3, 'Dr.', 'Fazle Rabbi', '44', 'Kushtia', 'Bangladesh', '98767', 2),
 (4, 'Dr.', ' Rashik', '77', 'Rangpur', 'Bangladesh', '5566', 3),
-(5, 'Dr.', 'Sazid', '32', 'Rajshahi', 'Bangladesh', '1994', 4),
+(5, 'Dr.', 'Sazzad', '32', 'Rajshahi', 'Bangladesh', '1994', 4),
 (6, 'Dr.', 'Humayun', '66', 'Khulna', 'Bangladesh', '4455', 2);
 
 -- --------------------------------------------------------
