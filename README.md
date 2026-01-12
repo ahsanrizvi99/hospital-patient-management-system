@@ -9,6 +9,15 @@
 
 ---
 
+## 👥 Authors
+
+- **Ahsan Rizvi**
+- **Umme Hani Roshni**
+
+*Department of Electrical and Computer Engineering, North South University*
+
+---
+
 ## 📖 About
 
 The **Hospital Management System (HMS)** is a full-stack web application designed to automate and simplify hospital administrative operations.
@@ -22,15 +31,6 @@ It provides a centralized platform where administrators can efficiently manage:
 * Billing and Payments
 
 This system replaces manual, paper-based processes with a secure and organized digital workflow.
-
----
-
-## 👨‍💻 Authors
-
-This project was developed by:
-
-* **Ahsan Rizvi**
-* **Umme Hani Roshni**
 
 ---
 
