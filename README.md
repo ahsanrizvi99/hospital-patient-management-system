@@ -2,10 +2,12 @@
 
 **A comprehensive web-based application for managing hospital operations, patients, and staff workflows.**
 
-![PHP](https://img.shields.io/badge/PHP-Core-777BB4?logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-7952B3?logo=bootstrap\&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![PHP](https://img.shields.io/badge/PHP-Core-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-7952B3?logo=bootstrap&logoColor=white)
+
+📄 **Read the full project report:**  
+👉 [Project_Report.pdf](./Project_Report.pdf)
 
 ---
 
