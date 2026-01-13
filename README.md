@@ -5,9 +5,7 @@
 ![PHP](https://img.shields.io/badge/PHP-Core-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-7952B3?logo=bootstrap&logoColor=white)
-
-📄 **Read the full project report:**  
-👉 [Project_Report.pdf](./Project_Report.pdf)
+[![View Project Report](https://img.shields.io/badge/View-Project_Report-blue?logo=adobe-acrobat-reader&logoColor=white)](Project_Report.pdf)
 
 ---
 
